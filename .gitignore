@@ -1,0 +1,11 @@
+# Byte‑compiled / cache
+__pycache__/
+*.pyc
+
+# Model weights if NOT using LFS
+models/*.caffemodel
+models/*.pb
+
+# VSCode / PyCharm / OS cruft
+.vscode/
+.DS_Store
