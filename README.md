@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gender-and-Age-Detection   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Gender-and-Age-Detection">
 
 
@@ -101,3 +102,6 @@
     
 <img src="Example/Detecting age and gender woman1.png">
               
+=======
+# Gender-and-Age-Detection
+>>>>>>> dfc45b8898d138500c4d3f69056a2b6ed83d456e
